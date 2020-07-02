@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "41649E34-270B-4E9F-99C3-1451128CF798"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "36DC7578-0EE7-4B79-90E4-5C6E0A77BC15"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Classwork6/MoviesMasterVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "setMarvelImages()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A0366840-3E98-45F2-88F0-9E8CD95B8EE2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Classwork6/MovieDetailsVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "MovieDetailsVC"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "A0366840-3E98-45F2-88F0-9E8CD95B8EE2 - 8687610c58883552"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Classwork6.MovieDetailsVC.actorImg1.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "Classwork6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alawrad/Documents/GitHub/iOS-CW-5/ios-cw-6/Classwork6/MovieDetailsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "A0366840-3E98-45F2-88F0-9E8CD95B8EE2 - 9d31b0fdf48bc166"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Classwork6.MovieDetailsVC.actorImg1.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "Classwork6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alawrad/Documents/GitHub/iOS-CW-5/ios-cw-6/Classwork6/MovieDetailsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "A0366840-3E98-45F2-88F0-9E8CD95B8EE2 - 83d665d525049a57"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Classwork6.MovieDetailsVC.actorImg1.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "Classwork6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alawrad/Documents/GitHub/iOS-CW-5/ios-cw-6/Classwork6/MovieDetailsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  uuid = "A0366840-3E98-45F2-88F0-9E8CD95B8EE2 - 46ea9688944cb57b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Classwork6.MovieDetailsVC.actorImg1.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Classwork6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alawrad/Documents/GitHub/iOS-CW-5/ios-cw-6/Classwork6/MovieDetailsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "A0366840-3E98-45F2-88F0-9E8CD95B8EE2 - 4e530e9f80dfb947"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Classwork6.MovieDetailsVC.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Classwork6.MovieDetailsVC"
+                  moduleName = "Classwork6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alawrad/Documents/GitHub/iOS-CW-5/ios-cw-6/Classwork6/MovieDetailsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "1285">
+               </Location>
+               <Location
+                  uuid = "A0366840-3E98-45F2-88F0-9E8CD95B8EE2 - ae72a923ccdc67d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Classwork6.MovieDetailsVC.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Classwork6.MovieDetailsVC&gt;"
+                  moduleName = "Classwork6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alawrad/Documents/GitHub/iOS-CW-5/ios-cw-6/Classwork6/MovieDetailsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "1226">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
